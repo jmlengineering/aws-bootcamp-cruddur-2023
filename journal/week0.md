@@ -6,6 +6,12 @@
 ![image](https://user-images.githubusercontent.com/94409703/220166931-b76253fe-857d-4e3d-8804-a812665f1430.png)
 
 ## AWS CLI Install Confirmation
+> aws sts get-caller-identity
+{
+    "UserId": "AIDAVKELXFMJTMJSL53NQ",
+    "Account": "365365242643",
+    "Arn": "arn:aws:iam::365365242643:user/jlee"
+}
 
 ## Created an AWS Budget
 ### Monthly Cost Budget
