@@ -11,3 +11,6 @@ Successfully installed.
 ## Created an AWS Budget
 ### Monthly Cost Budget
 ![image](https://user-images.githubusercontent.com/94409703/220169469-485a1821-563c-4c29-8f79-25bf5365f4dc.png)
+
+## Summary
+This week was a refresh of AWS IAM. The biggest difficulties for me came we changing the access permissions to allow Billing and Budget use for my IAM user as well as an integration problem with Gitpod and Github that delayed the AWS CLI installation. I finished all the videos for this week. I did enjoy learning about diagramming on the conceptual and logical levels. Moving forward to week 1!
